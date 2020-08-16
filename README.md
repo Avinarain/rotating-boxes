@@ -1,1 +1,1 @@
-# rotating-boxes
+# Box Class
